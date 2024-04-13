@@ -1,0 +1,51 @@
+[
+  {
+    "question": "¿Cuales son las tres familias de distribucion Linux?",
+    "options": ["Red Hat, SUSE y Debian", "Ubuntu, ubstream y Kernel", "Torvalds, GNU y Unix", "SUSE, Fedora y Gentoo"],
+    "correctAnswer": "Red Hat, SUSE y Debian",
+    "feedback": "Red Hat, SUSE y Debian son algunas de las más populares y ampliamente utilizadas en entornos empresariales y de servidor."
+  },
+  {
+    "question": "Linux evoluciona constantemente, tanto a nivel técnico (incluidas las funciones del núcleo) como a nivel de distribución e interfaz. (Verdadero o Falso)",
+    "options": ["Verdadero", "Falso"],
+    "correctAnswer": "Verdadero",
+    "feedback": " Linux es un sistema operativo en constante desarrollo y mejora, tanto a nivel técnico como en lo que respecta a las distribuciones y la interfaz de usuario."
+  },
+  {
+    "question": "¿Cual es un dato clave en la Familia Debian? (Selecciona uno)",
+    "options": ["Utiliza el gestor de paquetes APT basado en DPKG", "Original Equipment Manufacturer", "Las licencias OEM o retail", "La versión 4.12 del kernel se utiliza en openSUSE Leap 15"],
+    "correctAnswer": "Utiliza el gestor de paquetes APT basado en DPKG",
+    "feedback": "Su uso del sistema de gestión de paquetes APT, el cual se sustenta en el formato de paquetes DPKG. Este enfoque permite una administración eficiente y coherente de software en sistemas Debian."
+  },
+  {
+    "question": "¿Cual es un dato clave de la familia SUSE? (Selecciona uno)",
+    "options": ["(SLES) para openSUSE", "versión 5.8 del núcleo en Ubuntu 20.04 LTS.", "Intel x86, Arm, Itanium, PowerPC e IBM System z.", "gestores de paquetes yum basados en yum y dnf RPM"],
+    "correctAnswer": "(SLES) para openSUSE",
+    "feedback": "La familia SUSE es conocida por utilizar SUSE Linux Enterprise Server (SLES) como base para openSUSE."
+  },
+  {
+    "question": "¿Cual es un dato clave de la familia Red Hat? (Selecciona uno)",
+    "options": ["Fedora sirve como plataforma de pruebas ascendentes para RHEL", "Sles en comercio minorista", "Incluye la aplicación YaST", "Usa sentido ascendente para Ubuntu"],
+    "correctAnswer": "Fedora sirve como plataforma de pruebas ascendentes para RHEL",
+    "feedback": "Se utiliza como una plataforma de pruebas preliminares ascendentes para el sistema operativo Red Hat Enterprise Linux (RHEL)."
+  },
+  {
+    "question": "Las distribuciones de Linux creadas a mediados de los 90 sirvieron de base para una computación totalmente gratuita (Verdadero o Falso)",
+    "options": ["Verdadero", "Falso"],
+    "correctAnswer": "Verdadero",
+    "feedback": "Son gratuitas, ya que se convirtieron en una fuerza impulsora del movimiento del software de código abierto. En 1998, las principales empresas como IBM y Oracle anunciaron su soporte para la plataforma Linux e iniciaron también importantes esfuerzos de desarrollo."
+  },
+  {
+    "question": "¿Que alberga la fundación Linux?",
+    "options": ["organización sin fines de lucro que alberga la casa de Linux Torvalds", "big data y análisis, Cloud computing", "colección programación en COBOL", "Sistemas operativos propios"],
+    "correctAnswer": "organización sin fines de lucro que alberga la casa de Linux Torvalds",
+    "feedback": "La Fundación Linux es una organización sin fines de lucro que sirve como hogar para el creador de Linux, Linus Torvalds. Su principal objetivo es apoyar el desarrollo y la promoción del sistema operativo Linux y otros proyectos de código abierto."
+  },
+  {
+    "question": "¿Cómo se llama la mascota de Linus Torvalds?",
+    "options":["Moz", "Golang", "Tux", "Duke"],
+    "correctAnswer": "Tux",
+    "feedback": "Tux es el nombre de la mascota de Linux. Es un pingüino y se asocia con el sistema operativo Linux."
+  }
+]
+
